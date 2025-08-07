@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# SQLite database
+*.db
+
+# IDE configs
+.idea/
+.vscode/
+
+# Docker artifacts
+*.tar
